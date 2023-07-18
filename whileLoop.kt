@@ -5,5 +5,5 @@ fun main(args: Array<String>) {
         x += num%10
         num=num/10
     }
-    println()
+    println(x)
 }
